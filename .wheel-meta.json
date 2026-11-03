@@ -1,0 +1,22 @@
+{
+  "wheel_id": 693,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-109",
+  "project": "fencing-contractors-caboolture-faq-7fcd49a42ec76ba7e98a53ffc821",
+  "parent_t1_ref": "fencingcaboolture-154",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing contractors caboolture faq",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-caboolture-faq-7fcd49a42ec76ba7e98a53ffc821/",
+  "tier": "T2",
+  "writeback_nonce": "8f2d4752c4f3fde9",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-caboolture-local-options-compared-f64b00ae3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Caboolture Local Options Compared: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
